@@ -42,4 +42,4 @@ venv/
 !.elasticbeanstalk/*.global.yml
 set_env.sh
 # Ignore Angular cache files
-udagram-frontend/.angular/cache/*
+/udagram-frontend/.angular/cache/
